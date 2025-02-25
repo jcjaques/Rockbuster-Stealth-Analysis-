@@ -9,8 +9,8 @@ Rockbuster Stealth LLC is a fictional movie rental company that have stores worl
 ● Do sales figures vary between geographic regions?  
 ## Data Overview
 The data set being used contains the following information:  
-● Film Inventory including title, actors, and language.
-● Customer payments and rental choices
+● Film Inventory including title, actors, and language.  
+● Customer payments and rental choices.  
 ● Store information such as staff and location.
 ## Tools
 PostgreSQL - used to analysis data
