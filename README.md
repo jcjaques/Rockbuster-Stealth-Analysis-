@@ -13,5 +13,5 @@ The data set being used contains the following information:
 ● Customer payments and rental choices.  
 ● Store information such as staff and location.
 ## Tools
-PostgreSQL - used to analysis data
+PostgreSQL - used to analysis data  
 Tableau Public - used to created visualizations  (https://public.tableau.com/app/profile/jeff.jaques/vizzes)
